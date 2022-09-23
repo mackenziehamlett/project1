@@ -27,7 +27,7 @@ The interface of an elevator if it is easy to read makes doing all of the common
 
 # Sequence of actions, usability, and feedback
 ### Sequence of Actions
-As shown in the gif above, once the user enters the desired direction to travel in (up or down) and enters the elevator, they may press the desired floor to travel to and the ndecide if they want to shut the doors of the elevator early or keep them open with pushing the respective buttons.
+As shown in the gif above, once the user enters the desired direction to travel in (up or down) and enters the elevator, they may press the desired floor to travel to and then decide if they want to shut the doors of the elevator early or keep them open with pushing the respective buttons.
 In the event of an emergency or elevator getting stuck there will be another set of buttons to call the fire department and maintenence respectfully, both of these come with their set of instructions as well for the user to learn how to use them.
 
 ### Usability
