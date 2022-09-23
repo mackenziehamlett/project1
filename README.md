@@ -25,6 +25,11 @@
 
 The interface of an elevator if it is easy to read makes doing all of the common nad rare cases for elevator use easier, however in the event of a poor design the user of the elevaotr is left confused and takes a significant amount of time to properly operate it to accomplish their desired goal. In the event of an extremely poor design the elevator could be used wrong, and worse yet in the event of an emergency with a poor interface the user may be left panicking without idea on how to call for help.
 
-# Sequence of actions
+# Sequence of actions, usability, and feedback
 As shown in the gif above, once the user enters the desired direction to travel in (up or down) and enters the elevator, they may press the desired floor to travel to and the ndecide if they want to shut the doors of the elevator early or keep them open with pushing the respective buttons.
 In the event of an emergency or elevator getting stuck there will be another set of buttons to call the fire department and maintenence respectfully, both of these come with their set of instructions as well for the user to learn how to use them.
+
+The elevator will support the user to figure out its design through using standard symbols and fonts for elevator designs, the floor the user is on will be labeled with a star for example. Descriptions for anything outside of which floor the user would like to travel to is always provided in the design of the interface.
+
+Once the user selects their desired operation on the interface there is generally a light indicator that is turned on under the respective button that the user has selected as well as there is a direct change in the events happening with correlation to the selected choice, for example if the floor 2 button is pushed, the button the user pushed will light up and once the door closes the elevator will begin to move to floor 2.
+
