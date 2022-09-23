@@ -13,12 +13,12 @@
 (can I just use the table for this?)
 
 # Common/ Rare use cases for an elevator
-## Common
+### Common
 - Move people to and from various floors of a building rapidly
 - Lifting heavy / bulky objects to other floors of a building that otherwise could not be transported up the stairs by foot
 - dumbwaiters are smaller elevators used to transport smaller items to and from floors (i.e. dishes and food plates in a nice hotel)
 
-## Rare
+### Rare
 - Freight elevators are used to transport heavier loads to great heights and back down (think of a carvana) 
 - Wheelchair platforms push the definition of an elevator but carry out the same function as well as provides ease of access for the disabled
 - Paternoster elevators are used in factory plants to move manufacttured products to different floors in assembly lines
