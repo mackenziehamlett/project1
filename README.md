@@ -21,3 +21,5 @@
 - Freight elevators are used to transport heavier loads to great heights and back down (think of a carvana) 
 - Wheelchair platforms push the definition of an elevator but carry out the same function as well as provides ease of access for the disabled
 - Paternoster elevators are used in factory plants to move manufacttured products to different floors in assembly lines
+
+The interface of an elevator if it is easy to read makes doing all of the common nad rare cases for elevator use easier, however in the event of a poor design the user of the elevaotr is left confused and takes a significant amount of time to properly operate it to accomplish their desired goal. In the event of an extremely poor design the elevator could be used wrong, and worse yet in the event of an emergency with a poor interface the user may be left panicking without idea on how to call for help.
