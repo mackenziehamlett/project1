@@ -24,3 +24,7 @@
 - Paternoster elevators are used in factory plants to move manufacttured products to different floors in assembly lines
 
 The interface of an elevator if it is easy to read makes doing all of the common nad rare cases for elevator use easier, however in the event of a poor design the user of the elevaotr is left confused and takes a significant amount of time to properly operate it to accomplish their desired goal. In the event of an extremely poor design the elevator could be used wrong, and worse yet in the event of an emergency with a poor interface the user may be left panicking without idea on how to call for help.
+
+# Sequence of actions
+As shown in the gif above, once the user enters the desired direction to travel in (up or down) and enters the elevator, they may press the desired floor to travel to and the ndecide if they want to shut the doors of the elevator early or keep them open with pushing the respective buttons.
+In the event of an emergency or elevator getting stuck there will be another set of buttons to call the fire department and maintenence respectfully, both of these come with their set of instructions as well for the user to learn how to use them.
