@@ -36,3 +36,7 @@ The elevator will support the user to figure out its design through using standa
 ### Feedback
 Once the user selects their desired operation on the interface there is generally a light indicator that is turned on under the respective button that the user has selected as well as there is a direct change in the events happening with correlation to the selected choice, for example if the floor 2 button is pushed, the button the user pushed will light up and once the door closes the elevator will begin to move to floor 2.
 
+# Common mistakes with current design
+- If the floor is labeled next to the button and has a squared layout (like my example) it is easy to press the wrong floor's button and the user is forced to travel to the wrong floor
+- The open/ close door buttons generally dont provide feeback that the user has pressed them and results in rapid pressing of the smae button which may not even work at all creating frustration
+- In the event of an emergency the user is forced to read lengthy paragraphs to learn how to call for help, generally if there is a fire in the elevator no one is going to sit and read a book, theyre going to start slamming buttons out of confusion and fear.
