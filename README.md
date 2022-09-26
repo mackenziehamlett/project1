@@ -7,7 +7,7 @@
 | Light to indicate button pressed on floors | Floor number should be on the button, not next to it, creates confusion |
 |   | No light on open/close door buttons |
 |   | Cancel fire operation and call fire department buttons look too similar and in emergency the wrong one would be easily pressed |
-|   | Bell button has no use | 
+|   | Alarm button is not labeled | 
 
 # Issues with the current design
 (can I just use the table for this?)
