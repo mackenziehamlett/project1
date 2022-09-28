@@ -1,4 +1,4 @@
-# Project 1: Elevator Interface
+#p1.Mackenzie.Hamlett
 
 # Current Interface
 ![elevatorPic_1_19 (1)](https://user-images.githubusercontent.com/59324140/192892251-dbca900f-d80d-4727-8f6f-3d24e7da2c06.jpg)
