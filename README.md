@@ -2,7 +2,7 @@
 
 # Current Interface
 ![elevatorPic_1_19 (1)](https://user-images.githubusercontent.com/59324140/192892251-dbca900f-d80d-4727-8f6f-3d24e7da2c06.jpg)
-![Untitled (4)](https://user-images.githubusercontent.com/59324140/192894797-7dcf13a4-1fc0-48d0-a235-56a1dc6b0d43.gif)
+![Untitled (1)](https://user-images.githubusercontent.com/59324140/192894830-fd0ba4d7-1d01-457e-a05c-83fd6f4f83df.gif)
 
 | PROS | CONS |
 | --- | --- |
