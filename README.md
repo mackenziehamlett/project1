@@ -51,4 +51,4 @@ Once the user selects their desired operation on the interface there is generall
 ![sketch_19](https://user-images.githubusercontent.com/59324140/192894971-3c4a0364-0582-4812-ba7f-1281bf09cfd0.jpg)
 
 # DEMO
-![p1_MackenzieHamlett 2022-09-28 17-01-06_Trim](https://user-images.githubusercontent.com/59324140/192896845-4d4b684d-a40e-4a16-81b3-261058460c12.gif)
+![p1_MackenzieHamlett 2022-09-28 17-01-06_Trim (1)](https://user-images.githubusercontent.com/59324140/192896978-d882c679-ed52-414d-994a-57444eb333f2.gif)
