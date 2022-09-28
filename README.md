@@ -9,9 +9,6 @@
 |   | Cancel fire operation and call fire department buttons look too similar and in emergency the wrong one would be easily pressed |
 |   | Alarm button is not labeled | 
 
-# Issues with the current design
-(can I just use the table for this?)
-
 # Common/ Rare use cases for an elevator
 ### Common
 - Move people to and from various floors of a building rapidly
