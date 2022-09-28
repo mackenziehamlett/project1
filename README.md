@@ -47,5 +47,5 @@ Once the user selects their desired operation on the interface there is generall
 - Create easy to use fire and emergency buttons
 - Add lights to and label open and close door buttons
 ### Sketch
-![sketch_19](https://user-images.githubusercontent.com/59324140/192856450-78adf056-7726-445e-bc45-f3dc9b433d4b.jpg)
+![sketch_19](https://user-images.githubusercontent.com/59324140/192891804-f1d1228e-dfb5-41fb-b706-41f569b7c575.jpg)
 
