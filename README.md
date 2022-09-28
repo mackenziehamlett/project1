@@ -37,3 +37,7 @@ Once the user selects their desired operation on the interface there is generall
 - If the floor is labeled next to the button and has a squared layout (like my example) it is easy to press the wrong floor's button and the user is forced to travel to the wrong floor
 - The open/ close door buttons generally dont provide feeback that the user has pressed them and results in rapid pressing of the smae button which may not even work at all creating frustration
 - In the event of an emergency the user is forced to read lengthy paragraphs to learn how to call for help, generally if there is a fire in the elevator no one is going to sit and read a book, theyre going to start slamming buttons out of confusion and fear.
+
+#  My Solution
+![sketch](https://user-images.githubusercontent.com/59324140/192764413-b4b06185-687a-40fb-b7cb-369bb7180b27.jpg)
+
