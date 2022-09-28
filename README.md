@@ -1,7 +1,7 @@
 # Project 1: Elevator Interface
 #did it work?
 # Current Interface
-![elevatorPic_1_19](https://user-images.githubusercontent.com/59324140/192857871-d4602357-3622-402d-8dfb-5495350f7c13.jpg =100x20)
+![elevatorPic_1_19](https://user-images.githubusercontent.com/59324140/192857871-d4602357-3622-402d-8dfb-5495350f7c13.jpg)
 
 | PROS | CONS |
 | --- | --- |
