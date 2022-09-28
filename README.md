@@ -1,5 +1,8 @@
 # mackenziehamlett.github.io
 
+# Current Interface
+![elevatorPic](https://user-images.githubusercontent.com/59324140/192765659-b81ed235-db65-496b-a621-27a03656e166.jpg)
+
 | PROS | CONS |
 | --- | --- |
 | Easy to find fire operations buttons | The square layout of floor buttons is confusing |
