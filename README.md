@@ -42,7 +42,7 @@ Once the user selects their desired operation on the interface there is generall
 - Place all buttons in a column for clarity 
 - Put the floor numbers on the buttons to remove any confusion about which button does what function
 - Create easy to use fire and emergency buttons
-- Add lights to open and close door buttons
+- Add lights to and label open and close door buttons
 ### Sketch
 ![sketch](https://user-images.githubusercontent.com/59324140/192764413-b4b06185-687a-40fb-b7cb-369bb7180b27.jpg)
 
