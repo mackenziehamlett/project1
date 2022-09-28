@@ -1,7 +1,7 @@
 # Project 1: Elevator Interface
 #MAKE IMAGES SMALLER WTF
 # Current Interface
-![elevatorPic](https://user-images.githubusercontent.com/59324140/192765659-b81ed235-db65-496b-a621-27a03656e166.jpg)
+![elevatorPic_1_19](https://user-images.githubusercontent.com/59324140/192856051-06af9370-0b6f-4aa6-9b6d-e0bc3268bd82.jpg)
 
 | PROS | CONS |
 | --- | --- |
