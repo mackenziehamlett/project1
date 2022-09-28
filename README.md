@@ -1,7 +1,7 @@
 # Project 1: Elevator Interface
 
 # Current Interface
-![elevatorPic_1_19](https://user-images.githubusercontent.com/59324140/192892181-4ef6b3e9-0463-49b2-b980-0e0e0932f8d0.jpg)
+![elevatorPic_1_19 (1)](https://user-images.githubusercontent.com/59324140/192892251-dbca900f-d80d-4727-8f6f-3d24e7da2c06.jpg)
 
 | PROS | CONS |
 | --- | --- |
