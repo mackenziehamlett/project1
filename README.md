@@ -1,16 +1,16 @@
 # Project 1: Elevator Interface
-#did it work?
+
 # Current Interface
 ![elevatorPic_1_19_5_13](https://user-images.githubusercontent.com/59324140/192859580-316c47b8-cb56-4bc4-9571-b100a153e4f9.jpg)
 
 | PROS | CONS |
 | --- | --- |
-| Easy to find fire operations buttons | The square layout of floor buttons is confusing |
-| Call button easy to find and operate | Fire operations descriptions is lengthy and hard to read |
-| Light to indicate button pressed on floors | Floor number should be on the button, not next to it, creates confusion |
-|   | No light on open/close door buttons |
-|   | Cancel fire operation and call fire department buttons look too similar and in emergency the wrong one would be easily pressed |
-|   | Alarm button is not labeled | 
+| - Easy to find fire operations buttons |      - The square layout of floor buttons is confusing |
+| - Call button easy to find and operate |      - Fire operations descriptions is lengthy and hard to read |
+| - Light to indicate button pressed on floors |      - Floor number should be on the button, not next to it, creates confusion |
+|   |       - No light on open/close door buttons |
+|   |       - Cancel fire operation and call fire department buttons look too similar and in emergency the wrong one would be easily pressed |
+|   |       - Alarm button is not labeled | 
 
 # Common/ Rare use cases for an elevator
 ### Common
